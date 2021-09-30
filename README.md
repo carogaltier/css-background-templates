@@ -1,6 +1,6 @@
-<h1 align="center"><CSS Animated Backgrounds></h1>
+# CSS Animated Backgrounds
 
-<p align="center"><This is just a simple website with a menu bar in which you can choose among six different animated background examples></p>
+This is just a simple website with a menu bar in which you can choose among six different animated background examples. All the files and the code is inmy gitHub repository. Feel free to use, copy and play with it!
 
 ## Links
 
