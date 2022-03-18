@@ -9,17 +9,17 @@ This is just a simple website with a menu bar in which you can choose among six 
 
 ## Screenshots
 
-![](/screenshots/1.png "Colour Gradient")
+![](/screenshots/1.jpg "Colour Gradient")
 
-![](/screenshots/2.png "Sliding Diagonals")
+![](/screenshots/2.jpg "Sliding Diagonals")
 
-![](/screenshots/3.png "Floating Lines")
+![](/screenshots/3.jpg "Floating Lines")
 
-![](/screenshots/4.png "Waves")
+![](/screenshots/4.jpg "Waves")
 
-![](/screenshots/5.png "Lights")
+![](/screenshots/5.jpg "Lights")
 
-![](/screenshots/6.png "Bubbles")
+![](/screenshots/6.jpg "Bubbles")
 
 
 ## Built With
