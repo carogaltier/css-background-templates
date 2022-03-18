@@ -33,6 +33,9 @@ This is just a simple website with a menu bar in which you can choose among six 
 
 - [Profile](https://github.com/carogaltier "Carolina Galtier")
 
+## License
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
